@@ -1,0 +1,24 @@
+{
+    "clients": [
+        {
+            "name": "Client1",
+            "car_firm": "Firm1"
+        },
+        {
+            "name": "meir",
+            "car_firm": "Firm2"
+        }
+    ],
+    "model": [
+        {
+            "model": "gege",
+            "color": "black",
+            "firm": "blahblah"
+        },
+        {
+            "model": "gegea",
+            "color": "blacka",
+            "firm": "blahblahaa"
+        }
+    ]
+}
